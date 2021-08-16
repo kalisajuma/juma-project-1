@@ -1,0 +1,30 @@
+
+.zoom
+{
+transition:transform 0.5s;
+}
+.zoom:hover
+{
+transform:scale(1.2);
+}
+table a
+{
+	color:white;
+	text-decoration:none;
+
+	
+}
+table td
+{
+	border-radius:10px;
+	
+}
+table tr td:hover
+{
+background-color:green;
+
+}
+
+
+
+
